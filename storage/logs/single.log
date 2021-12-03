@@ -1,0 +1,56 @@
+2021-12-03 15:33:34 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-03 15:33:34 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-03 15:55:59 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 15:55:59 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 15:55:59 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 15:55:59 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 15:55:59 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 15:55:59 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 15:55:59 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:07:00 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:07:00 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:07:00 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:07:00 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:07:00 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:07:00 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:07:00 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:33:10 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:33:10 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:33:10 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:33:10 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:33:10 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:33:10 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:33:10 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:33:10 - INFO - "GET /todos HTTP/1.1" 200 433
+2021-12-03 16:33:10 - INFO - "GET /todos/2 HTTP/1.1" 200 139
+2021-12-03 16:44:01 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:44:01 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:44:01 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:44:01 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:44:01 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:44:01 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:44:01 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:44:01 - INFO - "POST /todos HTTP/1.1" 200 151
+2021-12-03 16:49:03 - WARNING - "POST /todos/4 HTTP/1.1" 404 1536
+2021-12-03 16:50:55 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:50:55 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:50:55 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:50:55 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:50:55 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:50:55 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:50:55 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:50:55 - INFO - "PUT /todos/4 HTTP/1.1" 200 163
+2021-12-03 16:51:59 - WARNING - "DELETE /todos/4 HTTP/1.1" 404 1536
+2021-12-03 16:51:59 - WARNING - "DELETE /todos/4 HTTP/1.1" 404 1536
+2021-12-03 16:52:35 - ERROR - AttributeError in 0 on line 0
+2021-12-03 16:52:35 - ERROR - "DELETE /todos/4 HTTP/1.1" 500 1039394
+2021-12-03 16:52:40 - ERROR - AttributeError in 0 on line 0
+2021-12-03 16:52:40 - ERROR - "DELETE /todos/4 HTTP/1.1" 500 1039394
+2021-12-03 16:52:56 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:52:56 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:52:56 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:52:56 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:52:56 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:52:56 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:52:56 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:52:56 - INFO - "DELETE /todos/4 HTTP/1.1" 200 163
